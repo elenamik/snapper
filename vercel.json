@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 0,
     "builds": [
         {
             "src": "./dist/server/app.js",
